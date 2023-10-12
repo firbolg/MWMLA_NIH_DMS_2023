@@ -5,4 +5,4 @@ Includes:
 
 -CSV file with raw data
 
--python file with visualization data
+-python file with visualizations script
